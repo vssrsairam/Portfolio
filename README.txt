@@ -1,40 +1,32 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Sriram's Portfolio
 
+Welcome to my professional portfolio! This website showcases my journey as a Power BI developer and highlights my skills and projects.
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+## Overview
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+Explore my expertise in Power BI development and my diverse project experiences in industries like manufacturing, markets, and retail.
 
-http://ineedchemicalx.deviantart.com/
+## Features
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+- **Project Showcases:** View comprehensive end-to-end reports created for clients.
+- **Skills & Expertise:** Learn about my proficiency in Power BI and related technologies.
+- **Contact Information:** Connect with me for opportunities, collaborations, or just a friendly chat.
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+## Getting Started
 
-(* = Not included)
+1. Visit [Sriram's Portfolio](https://www.your-portfolio-url.com).
+2. Navigate through different sections to learn more about my skills, projects, and experiences.
 
-AJ
-aj@lkn.io | @ajlkn
+## Technologies Used for website
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+- HTML
+- CSS
+- JavaScript
 
+## Screenshots
 
-Credits:
+Include screenshots or GIFs showcasing different sections of your portfolio.
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
+## Contact
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+For inquiries or collaborations, feel free to reach out at [your@email.com](mailto:your@email.com).
