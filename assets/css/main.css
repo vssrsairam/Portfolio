@@ -1737,6 +1737,21 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
+
+.skills-section {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.skills-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+.skills-section li {
+    margin-bottom: 8px;
+}
+
 /* Image */
 
 	.image {
