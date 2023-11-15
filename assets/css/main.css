@@ -1737,21 +1737,6 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
-
-.skills-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-.skills-table th, .skills-table td {
-    border: 1px solid #000;
-    padding: 8px;
-}
-
-.skills-table th {
-    background-color: #f5f5f5;
-}
-
 /* Image */
 
 	.image {
